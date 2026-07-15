@@ -30,7 +30,7 @@
 	},
 	"devDependencies": {
 		"@types/node": "^25.9.2",
-		"typescript": "^3.4.5",
+		"typescript": "^7.0.2",
 		"rimraf": "^3.0.2"
 	}
 }
